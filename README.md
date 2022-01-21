@@ -1,1 +1,3 @@
-This a project that I am working on right now, so it is incomplete.
+Goal - Use features from the given data on superconducter to train a model to be able to predict a superconducter's critical temperature based on a few of the most notable features<br/>
+Data - Data for this project was obtained from University of California Irvine Machine Learning Repository<br/>
+Tools- This project will use the scikit-learn module along with matplotlib as pandas to visualize and store the data respectively.
